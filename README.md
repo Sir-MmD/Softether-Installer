@@ -114,6 +114,6 @@ Your server is now secure and ready for further configuration!
 
 ## Acknowledgements
 
-The Bash script and this README file were generated with the assistance of **Google's Gemini**.
+The Bash script and this README file were generated with the assistance of **Google's Gemini (2.5 Pro)**.
 
 ---
