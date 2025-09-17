@@ -85,7 +85,7 @@ You can download and run the script using one of the methods below.
 
     *Using `curl`:*
     ```bash
-    sudo bash <(curl -Ls https://raw.githubusercontent.com/Sir-MmD/Softether-Installer/main/softether-installer.sh) 
+    bash <(curl -Ls https://raw.githubusercontent.com/Sir-MmD/Softether-Installer/main/softether-installer.sh) 
     ```
     *or using `wget`:*
     ```bash
